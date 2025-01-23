@@ -14,8 +14,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: "zh_Hans"
+          LOCALE: "zh"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          TIMELINE: "False"
+          SHOW_LOC_CHART: "False"
