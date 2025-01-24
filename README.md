@@ -1,3 +1,9 @@
+<div style="text-align: center;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=33&pause=1000&color=0077B8&center=true&vCenter=true&width=429&height=46&lines=jack_gdn+greets+you!" alt="Typing SVG" /></a>
+</div>
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2037%20mins-blue)
 
