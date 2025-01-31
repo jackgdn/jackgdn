@@ -5,13 +5,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 177.6 kB Used in GitHub's Storage 
- > 
-> 🏆 37 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,5 +61,5 @@ WSL                      3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/01/2025 20:10:22 UTC
+ Last Updated on 31/01/2025 18:04:07 UTC
 <!--END_SECTION:waka-->
