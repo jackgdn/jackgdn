@@ -3,6 +3,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2041%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 182.3 kB Used in GitHub's Storage 
@@ -57,5 +59,5 @@ Windows                  20 hrs 46 mins      ███████████�
 ```
 
 
- Last Updated on 15/02/2025 20:09:05 UTC
+ Last Updated on 16/02/2025 02:51:12 UTC
 <!--END_SECTION:waka-->
