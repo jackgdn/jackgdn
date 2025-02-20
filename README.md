@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=33&pause=1000&color=0077B8&vCenter=true&width=429&height=46&lines=JACK_GDN+IS+WATCHING+YOU!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=33&pause=1000&color=0077B8&vCenter=true&width=429&height=46&lines=TALK+LESS,+SMILE+MORE." alt="Typing SVG" /></a>
 
 ---
 
