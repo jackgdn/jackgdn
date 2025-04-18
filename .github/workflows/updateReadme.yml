@@ -16,7 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "False"
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           # SHOW_PROJECTS: "False"
           # SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
+          # SHOW_LOC_CHART: "False"
           
