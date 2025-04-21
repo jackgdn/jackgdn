@@ -2,7 +2,7 @@
 
 ---
 
-![[github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=jackgdn&column=3&theme=dark_lover&margin-w=13&margin-h=13&no-bg=true&no-frame=true)
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=jackgdn&column=3&theme=dark_lover&margin-w=13&margin-h=13&no-bg=true&no-frame=true)
 
 ---
 
@@ -73,3 +73,7 @@ Windows                  4 hrs 30 mins       ██████████░�
 
  Last Updated on 2025-04-21 01:07:29 UTC
 <!--END_SECTION:waka-->
+
+---
+
+![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=jackgdn&bg_color=00000000&color=0077b8&line=0077b8&point=00000000&area=true&area_color=003553&hide_border=true)
