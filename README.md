@@ -2,7 +2,7 @@
 
 ---
 
-https://github-profile-trophy.vercel.app/?username=jackgdn&column=3&theme=dark_lover&margin-w=13&margin-h=13&no-bg=true&no-frame=true
+[![github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=jackgdn&column=3&theme=dark_lover&margin-w=13&margin-h=13&no-bg=true&no-frame=true)
 
 ---
 
