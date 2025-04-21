@@ -2,6 +2,10 @@
 
 ---
 
+https://github-profile-trophy.vercel.app/?username=jackgdn&column=3&theme=dark_lover&margin-w=13&margin-h=13&no-bg=true&no-frame=true
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%208%20mins-blue)
 
