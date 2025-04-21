@@ -17,8 +17,9 @@ jobs:
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "False"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          SHOW_LINES_OF_CODE: "True"
           IGNORED_REPOS: "jackgdn.github.io"
           # SHOW_PROJECTS: "False"
-          # SHOW_LANGUAGE_PER_REPO: "False"
-          # SHOW_LOC_CHART: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
           
