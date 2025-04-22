@@ -21,3 +21,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           # IGNORED_REPOS: "jackgdn.github.io, gdn-blog, hugo-clarity, waka-readme-stats, hexo-theme-redefine, chaoxing"
+          SYMBOL_VERSION: "2"
