@@ -20,4 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           # SHOW_LOC_CHART: "False"
-          IGNORED_REPOS: "jackgdn.github.io, hugo-clarity, waka-readme-stats, hexo-theme-redefine, chaoxing"
+          IGNORED_REPOS: "jackgdn.github.io, gdn-blog, hugo-clarity, waka-readme-stats, hexo-theme-redefine, chaoxing"
