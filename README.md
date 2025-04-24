@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=33&pause=1000&color=0077B8&vCenter=true&width=429&height=46&lines=HaRDer+BetTEr+fAster+stronger" alt="Typing SVG" /></a>
+<a href="https://jackgdn.github.io"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=33&pause=1000&color=0077B8&vCenter=true&width=429&height=46&lines=HaRDer+BetTEr+fAster+stronger" alt="Typing SVG" /></a>
 
 ---
 
