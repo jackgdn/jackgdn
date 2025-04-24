@@ -1,0 +1,30 @@
+name: Update Recent Blog Posts
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 每天 0:00 BJS 自动运行一次
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Fetch and parse RSS
+        run: |
+          pip install feedparser
+          python .github/scripts/parse_rss.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update recent blog posts"
+          git push
