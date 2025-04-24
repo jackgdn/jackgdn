@@ -11,7 +11,7 @@ feed = feedparser.parse(RSS_URL)
 posts = feed.entries[:MAX_POSTS]
 
 # 生成 Markdown 内容
-markdown_content = "## 📝 最新博客文章\n\n"
+markdown_content = "📝 最新博客文章\n\n"
 for post in posts:
     try:
         # 处理带时区(+0000)和不带时区的情况
