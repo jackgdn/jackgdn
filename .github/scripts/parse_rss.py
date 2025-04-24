@@ -24,6 +24,9 @@ for post in posts:
         print(f"Error processing post {post.title}: {e}")
         continue
 
+update_time = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %Z")
+markdown_content += f"\n\n 上次更新于 {update_time}\n"
+
 # 更新 README.md
 with open(OUTPUT_FILE, "r") as f:
     readme = f.read()
