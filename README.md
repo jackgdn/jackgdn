@@ -77,4 +77,10 @@ Windows                  3 hrs 59 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 
 ---
 
+<!-- BLOG-POSTS:START -->
+
+<!-- BLOG-POSTS:END -->
+
+---
+
 ![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=jackgdn&bg_color=002538&color=ffffff&line=ffffff&point=0077b8&area=true&area_color=0077b8&hide_border=true&days=31)
