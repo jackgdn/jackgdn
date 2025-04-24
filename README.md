@@ -2,7 +2,11 @@
 
 ---
 
+🔢 **My Github Stats**
+
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=jackgdn&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=0077b8&bg_color=002538,002538,003553,003553,0077b8,0077b8&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=jackgdn&ring_color=003553)
+
+🏆 **My Trophies**
 
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=jackgdn&column=3&theme=buddhism&margin-w=13&margin-h=13&no-frame=true)
 
@@ -88,5 +92,7 @@ Windows                  3 hrs 59 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 <!-- BLOG-POSTS:END -->
 
 ---
+
+📈 **My Contribution Graph**
 
 ![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=jackgdn&bg_color=002538&color=ffffff&line=ffffff&point=0077b8&area=true&area_color=0077b8&hide_border=true&days=31)
