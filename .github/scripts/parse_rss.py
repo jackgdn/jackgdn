@@ -13,8 +13,16 @@ posts = feed.entries[:MAX_POSTS]
 # 生成 Markdown 内容
 markdown_content = "## 📝 最新博客文章\n\n"
 for post in posts:
-    date = datetime.strptime(post.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%d")
-    markdown_content += f"- [{post.title}]({post.link}) - {date}\n"
+    try:
+        # 处理带时区(+0000)和不带时区的情况
+        try:
+            date = datetime.strptime(post.published, "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
+        except ValueError:
+            date = datetime.strptime(post.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%d")
+        markdown_content += f"- [{post.title}]({post.link}) - {date}\n"
+    except Exception as e:
+        print(f"Error processing post {post.title}: {e}")
+        continue
 
 # 更新 README.md
 with open(OUTPUT_FILE, "r") as f:
