@@ -2,13 +2,18 @@
 
 ---
 
-🔢 **My Github Stats**
+<!-- BLOG-POSTS:START -->
+📝 **最新[博客](https://jackgdn.github.io)文章**
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=jackgdn&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=0077b8&bg_color=002538,002538,003553,003553,0077b8,0077b8&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=jackgdn&ring_color=003553)
+- [ROS 学习记录（六）——TF 坐标变换实操](https://jackgdn.github.io/post/bundle-ros/ros-tf-prac/) - 2025-04-24
+- [ROS 学习记录（五）——TF 坐标变换](https://jackgdn.github.io/post/bundle-ros/ros-tf/) - 2025-04-23
+- [ROS 学习记录（四）——自定义头文件/模块，更改日志输出级别](https://jackgdn.github.io/post/bundle-ros/ros-lib/) - 2025-04-19
+- [ROS 学习记录（三）——ROS 通信机制实践](https://jackgdn.github.io/post/bundle-ros/ros-comm-prac/) - 2025-04-16
+- [ROS 学习记录（二）——ROS 的通信机制](https://jackgdn.github.io/post/bundle-ros/ros-comm/) - 2025-04-13
 
-🏆 **My Trophies**
 
-![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=jackgdn&column=3&theme=buddhism&margin-w=13&margin-h=13&no-frame=true)
+ 上次更新于 2025-05-27 16:29:51 UTC
+<!-- BLOG-POSTS:END -->
 
 ---
 
@@ -79,21 +84,6 @@ Windows                  2 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀�
 
  Last Updated on 2025-05-27 22:21:59 UTC
 <!--END_SECTION:waka-->
-
----
-
-<!-- BLOG-POSTS:START -->
-📝 **最新[博客](https://jackgdn.github.io)文章**
-
-- [ROS 学习记录（六）——TF 坐标变换实操](https://jackgdn.github.io/post/bundle-ros/ros-tf-prac/) - 2025-04-24
-- [ROS 学习记录（五）——TF 坐标变换](https://jackgdn.github.io/post/bundle-ros/ros-tf/) - 2025-04-23
-- [ROS 学习记录（四）——自定义头文件/模块，更改日志输出级别](https://jackgdn.github.io/post/bundle-ros/ros-lib/) - 2025-04-19
-- [ROS 学习记录（三）——ROS 通信机制实践](https://jackgdn.github.io/post/bundle-ros/ros-comm-prac/) - 2025-04-16
-- [ROS 学习记录（二）——ROS 的通信机制](https://jackgdn.github.io/post/bundle-ros/ros-comm/) - 2025-04-13
-
-
- 上次更新于 2025-05-27 16:29:51 UTC
-<!-- BLOG-POSTS:END -->
 
 ---
 
