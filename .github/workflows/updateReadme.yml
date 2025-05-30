@@ -23,3 +23,4 @@ jobs:
           # IGNORED_REPOS: "jackgdn.github.io, gdn-blog, hugo-clarity, waka-readme-stats, hexo-theme-redefine, chaoxing"
           IGNORED_REPOS: "jackgdn"
           SYMBOL_VERSION: "2"
+          SHOW_PROJECTS: "False"
