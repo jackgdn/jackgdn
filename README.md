@@ -12,7 +12,7 @@
 - [ROS 学习记录（三）——ROS 通信机制实践](https://jackgdn.github.io/post/bundle-ros/ros-comm-prac/) - 2025-04-16
 
 
- 上次更新于 2025-05-31 16:26:35 UTC
+ 上次更新于 2025-06-01 16:27:01 UTC
 <!-- BLOG-POSTS:END -->
 
 ---
