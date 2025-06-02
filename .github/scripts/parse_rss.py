@@ -25,7 +25,7 @@ for post in posts:
         continue
 
 update_time = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %Z")
-markdown_content += f"\n\n 上次更新于 {update_time}\n"
+markdown_content += f"\n\n 最近更新于 {update_time}\n"
 
 # 更新 README.md
 with open(OUTPUT_FILE, "r") as f:
