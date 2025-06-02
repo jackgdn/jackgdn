@@ -19,7 +19,7 @@ for post in posts:
             date = datetime.strptime(post.published, "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
         except ValueError:
             date = datetime.strptime(post.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%d")
-        markdown_content += f"- [{post.title}]({post.link}) - {date}\n"
+        markdown_content += f"- [{post.title}]({post.link}) | {date}\n"
     except Exception as e:
         print(f"Error processing post {post.title}: {e}")
         continue
