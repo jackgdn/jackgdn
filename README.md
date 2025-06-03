@@ -5,14 +5,14 @@
 <!-- BLOG-POSTS:START -->
 📝 **最新[博客](https://jackgdn.github.io)文章**
 
+- [ROS2 学习记录（三）——ROS2 参数服务器与动作通信](https://jackgdn.github.io/post/bundle-ros/ros2-param+action/) | 2025-06-03
 - [ROS2 学习记录（二）——ROS2 自定义消息与服务，编写 ROS2 中的 launch 文件](https://jackgdn.github.io/post/bundle-ros/ros2-custom-interfaces/) | 2025-06-02
 - [ROS2 学习记录（一）——ROS2 的话题通信与服务通信](https://jackgdn.github.io/post/bundle-ros/ros2-comm/) | 2025-05-28
 - [ROS 学习记录（六）——TF 坐标变换实操](https://jackgdn.github.io/post/bundle-ros/ros-tf-prac/) | 2025-04-24
 - [ROS 学习记录（五）——TF 坐标变换](https://jackgdn.github.io/post/bundle-ros/ros-tf/) | 2025-04-23
-- [ROS 学习记录（四）——自定义头文件/模块，更改日志输出级别](https://jackgdn.github.io/post/bundle-ros/ros-lib/) | 2025-04-19
 
 
- 最近更新于 2025-06-02 16:30:43 UTC
+ 最近更新于 2025-06-03 16:31:30 UTC
 <!-- BLOG-POSTS:END -->
 
 ---
