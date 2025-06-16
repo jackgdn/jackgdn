@@ -5,14 +5,14 @@
 <!-- BLOG-POSTS:START -->
 📝 **最新[博客](https://jackgdn.github.io)文章**
 
+- [Java 注解](https://jackgdn.github.io/post/bundle-java-%E5%AD%A6%E4%B9%A0/java-%E6%B3%A8%E8%A7%A3/) | 2025-06-16
 - [Java 泛型](https://jackgdn.github.io/post/bundle-java-%E5%AD%A6%E4%B9%A0/java-%E6%B3%9B%E5%9E%8B/) | 2025-06-11
 - [Java 反射](https://jackgdn.github.io/post/bundle-java-%E5%AD%A6%E4%B9%A0/java-%E5%8F%8D%E5%B0%84/) | 2025-06-10
 - [ROS2 学习记录（三）——ROS2 参数服务器与动作通信](https://jackgdn.github.io/post/bundle-ros/ros2-param+action/) | 2025-06-03
 - [ROS2 学习记录（二）——ROS2 自定义消息与服务，编写 ROS2 中的 launch 文件](https://jackgdn.github.io/post/bundle-ros/ros2-custom-interfaces/) | 2025-06-02
-- [ROS2 学习记录（一）——ROS2 的话题通信与服务通信](https://jackgdn.github.io/post/bundle-ros/ros2-comm/) | 2025-05-28
 
 
- 最近更新于 2025-06-15 16:27:01 UTC
+ 最近更新于 2025-06-16 05:05:43 UTC
 <!-- BLOG-POSTS:END -->
 
 ---
