@@ -1,4 +1,4 @@
-<a href="https://jackgdn.github.io"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=33&pause=1000&color=0077B8&vCenter=true&width=429&height=46&lines=HaRDer+BetTEr+fAster+stronger" alt="Typing SVG" /></a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&pause=1000&color=0077B8&·vCenter=true&random=true&width=512&height=64&lines=Simplicity+is+prerequisite+for+reliability.;Nine+women+can't+make+a+baby+in+one+month.;Deleted+code+is+debugged+code.;When+in+doubt%2C+use+brute+force.;Code+never+lies%2C+comments+sometimes+do.;Once+you+stop+learning+you+start+dying.;No+code+is+faster+than+no+code.;What+I+cannot+build%2C+I+do+not+understand.;When+in+doubt%2C+leave+it+out.;Less+code+equals+less+bugs.;Talk+is+cheap.+Show+me+the+code.;It%E2%80%99s+all+talk+until+the+code+runs.;To+iterate+is+human%2C+to+recurse+divine.;Typing+is+no+substitute+for+thinking.;Really+good+programs+live+forever.;Programming+can+be+addictive.;Making+things+easy+is+hard.)
 
 ---
 
