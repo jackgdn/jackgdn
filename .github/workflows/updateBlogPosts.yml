@@ -20,7 +20,7 @@ jobs:
 
       - name: Fetch and parse RSS
         run: |
-          pip install feedparser
+          pip install feedparser pytz
           python .github/scripts/parse_rss.py
 
       - name: Commit changes
@@ -28,5 +28,9 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Update recent blog posts"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update recent blog posts"
+            git push
+          fi
