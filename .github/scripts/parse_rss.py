@@ -27,7 +27,7 @@ for post in posts:
 
 update_time_utc = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %Z")
 update_time_cst = datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M:%S %Z")
-markdown_content += f"\n\n 最近更新于 {update_time_utc}    {update_time_cst}\n"
+markdown_content += f"\n\n 最近更新于 {update_time_utc} | {update_time_cst}\n"
 
 # 更新 README.md
 with open(OUTPUT_FILE, "r") as f:
