@@ -18,7 +18,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-700%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-700%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,7 +74,7 @@ Windows                  27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 2026-01-04 22:23:57 UTC
+ Last Updated on 2026-01-05 22:25:43 UTC
 <!--END_SECTION:waka-->
 
 ---
