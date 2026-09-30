@@ -24,3 +24,5 @@ jobs:
           IGNORED_REPOS: "jackgdn"
           SYMBOL_VERSION: "2"
           SHOW_PROJECTS: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
