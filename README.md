@@ -108,8 +108,3 @@ GPT                      0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 2026-09-30 01:11:31 UTC
 <!--END_SECTION:waka-->
 
----
-
-📈 **My Contribution Graph**
-
-![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=jackgdn&bg_color=002538&color=ffffff&line=ffffff&point=0077b8&area=true&area_color=0077b8&hide_border=true&days=31)
