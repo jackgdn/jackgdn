@@ -12,7 +12,7 @@
 - [ROS2 学习记录（三）——ROS2 参数服务器与动作通信](https://jackgdn.github.io/post/bundle-ros/ros2-param+action/) | 2025-06-03
 
 
- 最近更新于 2026-11-05 21:50:08 UTC
+ 最近更新于 2026-11-06 21:23:07 UTC
 <!-- BLOG-POSTS:END -->
 
 ---
